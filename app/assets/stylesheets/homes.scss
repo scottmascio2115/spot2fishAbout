@@ -1,0 +1,63 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.app-icon{
+  width: 125px;
+  height: 40px;
+  display:block;
+  margin:auto;
+  margin-top: 20px;
+}
+
+.spot-icon{
+  width: 125px;
+  height: 125px;
+  display:block;
+  margin:auto;
+  border-radius: 25px;
+}
+
+.margin-top{
+  margin-top: 50px;
+  background: #FFF;
+  border-radius: 25px;
+  margin-bottom: 50px;
+}
+
+.top-padding{
+  margin-top: 20px;
+}
+
+.header{
+  font-family: proximanova,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+  font-weight: 200;
+}
+
+.text{
+  font-family: proximanova,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.margin-bottom{
+  margin-bottom: 20px;
+}
+
+.images-container{
+  margin-top: 20px;
+}
+
+.cfsd{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 25px;
+}
+
+#signiture{
+  color: black;
+}
+
+#signiture:hover{
+  color: black;
+}
