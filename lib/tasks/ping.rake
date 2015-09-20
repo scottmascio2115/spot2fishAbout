@@ -9,7 +9,8 @@ namespace :ping do
              'http://www.spot2fish.com/',
              'http://api.spot2fish.com/',
              'http://node.spot2fish.com/',
-             'http://sinatra.spot2fish.com/'
+             'http://sinatra.spot2fish.com/',
+             'http://runswithlions.herokuapp.com/'
             ]
 
     sites.each do |site|
