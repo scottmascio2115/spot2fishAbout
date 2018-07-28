@@ -9,6 +9,7 @@ namespace :ping do
              'http://young-dawn-85853.herokuapp.com/',
              'http://spot2fish.com/',
              'https://spot2fish.com/',
+             'https://spot2fish-sms.herokuapp.com/',
              'http://node.spot2fish.com/'
             ]
 
